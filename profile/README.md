@@ -1,8 +1,9 @@
 # Uni-Archives
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7bc199b-a462-4d45-b7a0-236470498330">
+  <img src="https://github.com/user-attachments/assets/71568310-06ab-4d99-bac6-0ca22ff395b0">
 </p>
+
 
 Uni-Archives is an innovative academic platform designed to enhance collaboration and knowledge-sharing among university students and educators. It allows users to securely upload, share, and access academic materials, including lecture slides, notes, exams, and quizzes.
 
